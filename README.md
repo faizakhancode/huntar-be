@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/bayardt/huntar_fe">
+  <a href="https://github.com/faizakhancode/huntar-fe.git">
     <img src="HuntAR.png" alt="Logo" height="80">
   </a>
 
@@ -63,7 +63,7 @@ It was created in collaboration by:
 
 ## Getting Started
 
-As well as following the instructions below you may want to look at the information for the accompanying front-end repo: https://github.com/bayardt/huntar-fe
+As well as following the instructions below you may want to look at the information for the accompanying front-end repo:
 
 ### Prerequisites
 
@@ -73,7 +73,7 @@ Node v17.0.0 or higher is recommended on your development machine to work with t
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/bayardt/huntar-be.git
+   git clone https://github.com/faizakhancode/huntar-be.git
    ```
 2. Install NPM packages
    ```sh
